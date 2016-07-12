@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "225810374:AAHTMRvrXAwgZC4oUvgoncINdJL0hhG4KrU" --Your telegram bot api key
+  telegram_api_key: "203967278:AAEnzE0gVVXu6SqlVAwSNSLDaBBFfcbfFuI" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" --http://bit.ly/1VuH0Hl
   google_cx_key: "009487254586452198024%3Aisv0gbir8iy" --http://bit.ly/1UzJunX
